@@ -1,6 +1,8 @@
-## Backend starter kit for express nodejs
+## Backend starter kit for Express.js + MongoDB
 
-1. Change `.env` file first.
-2. `npm run start` to start your server.
-3. Open `http://localhost:3000/api/` to check if it's up. If you changed your PORT in `.env` file the URL may vary.
+1. Copy `.env.example` to `.env` file first.
+2. Change `.env` according to your settings.
+3. `npm run start` to start your server.
+
+Finally, check `http://localhost:PORT/api/` if it's running.
 
